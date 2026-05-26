@@ -1,0 +1,1 @@
+# QA_Manual_testing_Project_3_Smoke-Sanity-Regression_-_Exploratory_testing
