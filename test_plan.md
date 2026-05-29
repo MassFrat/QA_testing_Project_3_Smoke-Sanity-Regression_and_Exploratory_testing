@@ -1,17 +1,17 @@
-# Project 3 — nopCommerce Structured Testing
+### Project 3 - nopCommerce demo store Structured Testing 
+#### (Smoking, Sanity, Regression and Exploratory)          
 
 **Tester:** Mass Frat  
-**Date:** May 2026
 
 ---
 
-## Objective
+#### Objective
 
 Verify core customer-facing functionality of the nopCommerce demo store through structured smoke, sanity, regression, and exploratory testing. The goal is to confirm stability, identify defects, and document results clearly for portfolio and interview use.
 
 ---
 
-## Scope
+#### Scope
 
 | In Scope | Out of Scope |
 |----------|--------------|
@@ -22,7 +22,7 @@ Verify core customer-facing functionality of the nopCommerce demo store through 
 
 ---
 
-## Environment
+#### Environment
 
 - **Browser:** Firefox (desktop)
 - **Resolution:** 1920×1080
@@ -31,7 +31,7 @@ Verify core customer-facing functionality of the nopCommerce demo store through 
 
 ---
 
-## Entry & Exit Criteria
+#### Entry & Exit Criteria
 
 | Criteria | Description |
 |----------|-------------|
@@ -40,7 +40,7 @@ Verify core customer-facing functionality of the nopCommerce demo store through 
 
 ---
 
-## Test Approach
+#### Test Approach
 
 1. **Smoke testing** — Confirm the site is operational
 2. **Sanity testing** — Targeted validation after changes
@@ -49,7 +49,7 @@ Verify core customer-facing functionality of the nopCommerce demo store through 
 
 ---
 
-## Deliverables
+#### Deliverables
 
 - [ ] Test plan
 - [ ] 35 regression test cases
@@ -59,7 +59,7 @@ Verify core customer-facing functionality of the nopCommerce demo store through 
 
 ---
 
-## Risks
+#### Risks
 
 - Public demo environment may change during testing
 - UI behavior may vary by browser or screen state
