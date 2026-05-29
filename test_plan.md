@@ -65,24 +65,6 @@ Verify core customer-facing functionality of the nopCommerce demo store through 
 - UI behavior may vary by browser or screen state
 - Limited access prevents admin and backend validation
 
----
 
-## Interview Value
 
-This test plan demonstrates:
-
-- **Scope control** and clear boundary definition
-- **Test prioritization** across smoke, sanity, regression, and exploratory phases
-- **Defect reporting** with severity and priority
-- **Professional QA documentation** suitable for a 2026 tester role
-
----
-
-## How to Use This File
-
-1. Save this file as `README.md` in your GitHub repository
-2. Add your test cases, defect log, and test summary as additional files
-3. Link to your CV and portfolio from the repository description
-
----
 
