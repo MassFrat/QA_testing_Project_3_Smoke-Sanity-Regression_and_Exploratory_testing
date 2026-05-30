@@ -1,5 +1,4 @@
-### Project 3 - nopCommerce demo store Structured Testing 
-#### (Smoking, Sanity, Regression and Exploratory)          
+### Project 3 - nopCommerce demo store Structured Testing  (Smoking, Sanity, Regression and Exploratory)          
 
 **Tester:** Mass Frat  
 
