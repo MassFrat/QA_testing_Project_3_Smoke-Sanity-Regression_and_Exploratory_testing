@@ -5,13 +5,13 @@
 
 | Field | Details |
 |---|---|
-| **Project** | Project 3 — nopCommerce Structured Testing |
+| **Project** | Project 3 — nopCommerce Structured 4 Types of Testing |
 | **Tester** | Mass Frat |
-| **Date** | May 2026 |
+| **Date** | May/June 2026 |
 | **Version** | 1.0 |
 | **Application** | nopCommerce Demo Store |
 | **URL** | https://demo.nopcommerce.com |
-| **Browser** | Firefox (latest version) |
+| **Browser** | Firefox/Chrome (latest versions) |
 | **Screen Resolution** | Desktop — 1920 x 1080 |
 
 ---
@@ -19,9 +19,8 @@
 ## 1. Objectives
 
 - Verify that all major features of the nopCommerce demo store work correctly
-- Practise and demonstrate four key manual testing types: Smoke, Sanity, Regression and Exploratory
-- Identify, document and report defects with clear reproduction steps and severity ratings
-- Produce a professional, portfolio-ready test project for GitHub and job applications
+- Practice and demonstrate four key manual testing types: Smoke, Sanity, Regression and Exploratory
+- Identify, document and report defects with clear reproduction steps and severity r
 
 ---
 
@@ -53,9 +52,9 @@
 |---|---|:---:|---|
 | **Smoke** | Quick check — is the app alive and stable? | 10 | First — before every session |
 | **Sanity** | Verify a specific bug fix worked correctly | 8 | After a developer deploys a fix |
-| **Regression** | Full re-test — did the change break anything? | 20 | After any significant code change |
-| **Exploratory** | Unscripted creative investigation | 1 session (45 min) | After regression is complete |
-| **Total** | | **38** | |
+| **Regression** | Full re-test — did the change break anything? | 35 | 
+| **Exploratory** | Unscripted creative investigation | 1 session (25 mins) | 
+| **Total** | | **53** | |
 
 ---
 
@@ -63,15 +62,13 @@
 
 | Component | Detail |
 |---|---|
-| **Browser** | Firefox (latest) |
-| **Developer Tools** | Firefox Developer Tools — F12 (Console, Network, Responsive Design Mode) |
-| **Operating System** | Windows / macOS |
+| **Browser** | Firefox/Chrome (latest) |
+| **Developer Tools** | Firefox/Chrome Developer Tools — F12 (Console, Network, Responsive Design Mode) |
+| **Operating System** | Windows |
 | **Screen Size** | 1920 x 1080 (desktop) |
-| **Mobile Testing** | Firefox Responsive Design Mode — iPhone 14 Pro (390px) |
-| **Test Documentation** | Google Sheets |
+| **Mobile Testing** | Firefox/Chrome Responsive Design Mode — iPhone 14 Pro (390px) |
+| **Test Documentation** | Google Sheets/MS Word |
 | **Screen Recording** | Loom (exploratory session) |
-| **Bug Tracking** | Google Sheets — Bugs tab |
-| **Portfolio** | GitHub |
 
 ---
 
@@ -88,55 +85,13 @@
 
 - All 10 smoke test cases have been executed and results recorded
 - All 8 sanity test cases have been executed and results recorded
-- All 20 regression test cases have been executed and results recorded
+- All 35 regression test cases have been executed and results recorded
 - All bugs found are logged with severity, reproduction steps and screenshots
-- The 45-minute exploratory session is complete and recorded on Loom
-- A final test summary report has been completed
+- The 25-minute exploratory session is complete and recorded on Loom
 
 ---
 
-## 6. Test Deliverables
-
-| Deliverable | Format | Location |
-|---|---|---|
-| Test Plan | `.md` | `test-plan.md` |
-| Smoke Test Cases + Results | `.xlsx` | `smoke-tests.xlsx` |
-| Sanity Test Cases + Results | `.xlsx` | `sanity-tests.xlsx` |
-| Regression Test Suite + Results | `.xlsx` | `regression-tests.xlsx` |
-| Exploratory Session Notes | `.md` | `exploratory-session-notes.md` |
-| Bug Report | `.md` | `bug-report.md` |
-| Test Summary Report | `.xlsx` | `test-summary-report.xlsx` |
-| Screenshots | `.png` | `screenshots/` folder |
-
----
-
-## 7. Risks & Mitigations
-
-| Risk | Likelihood | Mitigation |
-|---|:---:|---|
-| Demo site unavailable | Low | Switch to OpenCart demo (demo.opencart.com) as backup |
-| Demo data resets between sessions | Medium | Re-create test data at the start of each session |
-| Test data shared with other demo users | Medium | Prefix all test data with **MF_** (e.g. MF_TestUser) |
-| Loom recording fails | Low | Test recording before starting. Use Firefox screenshot tool as backup |
-
----
-
-## 8. Estimated Schedule
-
-| Activity | Estimated Time |
-|---|---|
-| Explore application + write test plan | 30 minutes |
-| Smoke testing (10 test cases) | 30 minutes |
-| Sanity testing (8 test cases) | 30 minutes |
-| Regression testing (20 test cases) | 2 – 3 hours |
-| Exploratory testing session | 45 minutes |
-| Bug logging + bug report | 30 minutes |
-| GitHub upload + README | 30 minutes |
-| **Total Estimated Time** | **~5 – 6 hours** |
-
----
-
-## 9. Bug Severity Guide
+## 6. Bug Severity Guide
 
 | Severity | Definition |
 |:---:|---|
@@ -147,14 +102,4 @@
 
 ---
 
-## 10. Sign-off
 
-| Role | Name | Date | Signature |
-|---|---|---|---|
-| Tester | Mass Frat | May 2026 | ✅ |
-| Reviewer | | | |
-| Test Manager | | | |
-
----
-
-*Test Plan v1.0 — Project 3 — nopCommerce Structured Testing — Mass Frat — May 2026*
