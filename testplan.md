@@ -16,7 +16,7 @@
 
 ---
 
-## 1. Objectives
+### 1. Objectives
 
 - Verify that all major features of the nopCommerce demo store work correctly
 - Practice and demonstrate four key manual testing types: Smoke, Sanity, Regression and Exploratory
