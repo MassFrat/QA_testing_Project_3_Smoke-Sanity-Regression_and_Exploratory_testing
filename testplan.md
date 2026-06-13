@@ -48,10 +48,10 @@
 
 ### 3. Test Approach
 
-| Test Type | Purpose | Test Cases | When It Runs |
+| Test Type | Purpose | Test Cases | 
 |---|---|:---:|---|
-| **Smoke** | Quick check — is the app alive and stable? | 10 | First — before every session |
-| **Sanity** | Verify a specific bug fix worked correctly | 8 | After a developer deploys a fix |
+| **Smoke** | Quick check — is the app alive and stable? | 10 | 
+| **Sanity** | Verify a specific bug fix worked correctly | 8 | 
 | **Regression** | Full re-test — did the change break anything? | 35 | 
 | **Exploratory** | Unscripted creative investigation | 1 session (25 mins) | 
 | **Total** | | **53** | |
