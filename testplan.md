@@ -24,7 +24,7 @@
 
 ---
 
-## 2. Scope
+### 2. Scope
 
 ### ✅ In Scope
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 3. Test Approach
+### 3. Test Approach
 
 | Test Type | Purpose | Test Cases | When It Runs |
 |---|---|:---:|---|
@@ -58,7 +58,7 @@
 
 ---
 
-## 4. Test Environment
+### 4. Test Environment
 
 | Component | Detail |
 |---|---|
@@ -72,7 +72,7 @@
 
 ---
 
-## 5. Entry & Exit Criteria
+### 5. Entry & Exit Criteria
 
 ### Entry Criteria — Testing begins when:
 
@@ -91,7 +91,7 @@
 
 ---
 
-## 6. Bug Severity Guide
+### 6. Bug Severity Guide
 
 | Severity | Definition |
 |:---:|---|
