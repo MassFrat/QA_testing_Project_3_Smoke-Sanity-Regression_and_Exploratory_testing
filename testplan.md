@@ -1,5 +1,5 @@
-# Test Plan — Project 3
-## nopCommerce Demo Store | Structured Manual Testing
+## Test Plan — Project 3
+### nopCommerce Demo Store | Structured Manual Testing
 
 ---
 
